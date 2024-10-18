@@ -9,4 +9,4 @@ Theme for zed inspired by scheme used in tailwind documentation
 
 ## Installation
 1. Copy tailwind.json to ~/.config/zed/themes/
-2. Open Zed and navigate to Settings -> Theme -> Tailwind
+2. Open Zed and navigate to Settings -> Theme -> Tailwind Syntax
