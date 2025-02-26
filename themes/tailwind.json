@@ -256,13 +256,13 @@
 					"link_text": {
 						"background_color": null,
 						"color": "#7DD3FC",
-						"font_style": "#7DD3FC",
+						"font_style": null,
 						"font_weight": null
 					},
 					"link_uri": {
 						"background_color": null,
 						"color": "#7DD3FC",
-						"font_style": "#7DD3FC",
+						"font_style": null,
 						"font_weight": null
 					},
 					"number": {
