@@ -1,6 +1,6 @@
 id = "tailwind-theme"
 name = "Tailwind Syntax"
-version = "0.5.1"
+version = "0.6.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Tailwind theme for Zed"
